@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCD.Device.Camera", "TCD.Device.Camera\TCD.Device.Camera.csproj", "{7D8A66DD-8954-4262-8DF1-70041AE46159}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCD.Device.Camera.Barcodes", "TCD.Device.Camera.Barcodes\TCD.Device.Camera.Barcodes.csproj", "{0C5BEE80-FBDE-4F83-9786-E87523E78DBF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCD.Device.Camera.Sample", "TCD.Device.Camera.Sample\TCD.Device.Camera.Sample.csproj", "{6463C786-A832-46B2-9631-784A44E08915}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D8A66DD-8954-4262-8DF1-70041AE46159}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D8A66DD-8954-4262-8DF1-70041AE46159}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D8A66DD-8954-4262-8DF1-70041AE46159}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D8A66DD-8954-4262-8DF1-70041AE46159}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C5BEE80-FBDE-4F83-9786-E87523E78DBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C5BEE80-FBDE-4F83-9786-E87523E78DBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C5BEE80-FBDE-4F83-9786-E87523E78DBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C5BEE80-FBDE-4F83-9786-E87523E78DBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6463C786-A832-46B2-9631-784A44E08915}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6463C786-A832-46B2-9631-784A44E08915}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6463C786-A832-46B2-9631-784A44E08915}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{6463C786-A832-46B2-9631-784A44E08915}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6463C786-A832-46B2-9631-784A44E08915}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6463C786-A832-46B2-9631-784A44E08915}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
